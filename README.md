@@ -1,4 +1,7 @@
-# fyabai
+# ayabai
+
+Forked from https://github.com/FelixKratz/yabai
+Super smooth on ventura and issues with borders are fixed, I just removed default horizontal paddings because I dont use ultrawide monitor.
 
 Personal patches for yabai. Cherry-pick them to your own fork if you want to use them:
 
